@@ -5,18 +5,18 @@
 - [QMK firmware page](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
 
 ### 1: Solder the Mill-Max Hotswap Sockets
-<img src="img/milk-2-build-guide-1.jpg">
+<img src="img/milk-2-build-guide-1.jpg" width=500>
 
 ### 2: (Optional) Solder the WS2812B RGB Led
-<img src="img/milk-2-build-guide-2.jpg">
-<img src="img/milk-2-build-guide-3.jpg">
+<img src="img/milk-2-build-guide-2.jpg" width=500>
+<img src="img/milk-2-build-guide-3.jpg" width=500>
 
 ### 3: Solder the header pins for the Pro Micro 
-<img src="img/milk-2-build-guide-4.jpg">
-<img src="img/milk-2-build-guide-5.jpg">
+<img src="img/milk-2-build-guide-4.jpg" width=500>
+<img src="img/milk-2-build-guide-5.jpg" width=500>
 
 ### 4: Install the switches to the 3d printed case
-<img src="img/milk-2-build-guide-6.jpg">
+<img src="img/milk-2-build-guide-6.jpg" width=500>
 
 ### 5: Install the Pro Micro to the back of the 3d printed case
 
