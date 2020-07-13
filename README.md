@@ -11,9 +11,15 @@
 <img src="img/milk-2-build-guide-2.jpg" width=500>
 <img src="img/milk-2-build-guide-3.jpg" width=500>
 
-### 3: Solder the header pins for the Pro Micro 
+### 3: Solder the header pins for the Pro Micro
+It's not necessary to solder all pins.  
+The marked pins are used by the milk pcb.
+
 <img src="img/milk-2-build-guide-4.jpg" width=500>
 <img src="img/milk-2-build-guide-5.jpg" width=500>
+
+Pcb bottom view.
+<img src="img/milk-2-build-guide-7.png" width=500>
 
 ### 4: Install the switches to the 3d printed case
 <img src="img/milk-2-build-guide-6.jpg" width=500>
