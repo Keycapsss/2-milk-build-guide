@@ -1,4 +1,5 @@
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/firstcontributions/first-contributions)
 # Build guide for the 2% Milk 2-Key Macropad
 
 - Hardware Availability: [Open Source](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk), [Keycapsss](https://keycapsss.com/diy-kits/88/2-milk-2-key-macro-pad)
