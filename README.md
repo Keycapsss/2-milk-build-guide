@@ -31,8 +31,15 @@ Pcb bottom view.
 Make example for this keyboard (after setting up your build environment):
 
 ```bash
-make 2_milk:default
+make spaceman/2_milk:default
 ```
+or
+```bash
+qmk compile -kb spaceman/2_milk -km default
+```
+Then use [QMK Toolbox](https://github.com/qmk/qmk_toolbox) to flash the firmware on the Pro Micro.  
+Before connect RST and GND pins with a paper clip or tweezers, to bring the Pro Micro into the Bootloader Mode.
+
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
