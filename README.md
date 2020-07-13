@@ -2,7 +2,7 @@
 # Build guide for the 2% Milk 2-Key Macropad
 
 - Hardware Availability: [Open Source](https://github.com/Rionlion100/Spaceboards/tree/master/Keyboards/2%25%20Milk), [Keycapsss](https://keycapsss.com/diy-kits/88/2-milk-2-key-macro-pad)
-- [QMK firmware page](https://github.com/qmk/qmk_firmware/tree/master/keyboards/2_milk)
+- [QMK firmware page](https://github.com/qmk/qmk_firmware/tree/master/keyboards/spaceman/2_milk)
 
 ### 1: Solder the Mill-Max Hotswap Sockets
 <img src="img/milk-2-build-guide-1.jpg" width=500>
